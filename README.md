@@ -1,8 +1,9 @@
 # 💪 Ejercicios POO en JAVA   
 
 
-**Autor:** David Osorio, estudiante de 3° año de Ingeniería Civil en Informática en la &ensp; <img src="https://github.com/user-attachments/assets/c5b33524-0c86-4ae7-853f-949fb9737661" width="13" > Universidad de Los Lagos.
+>**Autor:** David Osorio, estudiante de 3° año de Ingeniería Civil en Informática en la &ensp; <img src="https://github.com/user-attachments/assets/c5b33524-0c86-4ae7-853f-949fb9737661" width="13" > Universidad de Los Lagos.
 
+\
 👋 ¡Bienvenidos a la ayudantía de Programación Orientada a Objetos (POO) en Java! En este repositorio encontrarás los ejercicios y ejemplos que cubriremos durante las sesiones.
 
 <p align="center">
