@@ -59,9 +59,13 @@ Durante las sesiones trabajaremos con los siguientes temas:
 
 ## 📚 Recursos
 
-- Documentación oficial de Java: [Aquí](https://docs.oracle.com/en/java/)
-- Tutoriales de Java: [TutorialsPoint](https://www.tutorialspoint.com/java/java_oops_concepts.htm)
+- Documentación oficial de Java: [Java](https://docs.oracle.com/en/java/)
+- Tutoriales de Java: [Tutorials Point](https://www.tutorialspoint.com/java/java_oops_concepts.htm)
 - Ejercicios de Java: [Exercism](https://exercism.org/tracks/java)
+- Curso de Git - GitHub: [Curso de GIT y GITHUB desde CERO para PRINCIPIANTES](https://www.youtube.com/watch?v=3GymExBkKjE&t=2810s)
+- Curso de Git - GitHub para aportar a proyectos: [Curso de GIT y GITHUB DESDE CERO Para Aportar a Proyectos](https://www.youtube.com/watch?v=niPExbK8lSw&t=140s)
+- Ejercitar comandos de Git: [Learn Git Branching](https://learngitbranching.js.org/?locale=es_AR)
+- Conoce todo sobre Patrones de Diseño: [Refactoring Guru](https://refactoring.guru/design-patterns)
 
 
 ---
