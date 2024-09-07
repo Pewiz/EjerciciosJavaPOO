@@ -12,7 +12,7 @@
 
 ***
 
-## ✍️ Editores de Codigo
+## ✍️ Editores de Código
 
 Para comenzar, necesitarás un entorno de desarrollo para escribir y ejecutar tus programas en Java. Aquí te dejo algunas opciones:
 
