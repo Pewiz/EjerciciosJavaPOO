@@ -2,7 +2,7 @@ package ClasesYObjetos;
 import java.time.LocalDate;
 import java.time.Period;
 
-public abstract class Persona {
+public  class Persona {
     protected String nombre;
     protected Fecha fechaDeNacimiento;
     protected String rut;
