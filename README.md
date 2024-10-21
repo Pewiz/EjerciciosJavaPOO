@@ -28,6 +28,15 @@ Para comenzar, necesitarás un entorno de desarrollo para escribir y ejecutar tu
 
 - **Java Development Kit (JDK)**: Debes instalar el [JDK](https://www.oracle.com/cl/java/technologies/downloads/) para poder compilar y ejecutar programas en Java.
 - **Java Runtime Environment (JRE)**: Descarga el JRE desde [Aquí](https://www.java.com/es/download/ie_manual.jsp) para ejecutar aplicaciones Java.
+
+---
+
+## 🎨🖼️ Herramienta de diseño de interfaz de usuario
+
+Para facilitar la creacion de interfaces gráficas haremos uso de esta herramienta
+
+### 1. Scene Builder
+- **Descargar Scene Builder**: [Scene Builder](https://gluonhq.com/products/scene-builder/)
 ---
   
   
@@ -66,7 +75,10 @@ Durante las sesiones trabajaremos con los siguientes temas:
 - Curso de Git - GitHub para aportar a proyectos: [Curso de GIT y GITHUB DESDE CERO Para Aportar a Proyectos](https://www.youtube.com/watch?v=niPExbK8lSw&t=140s)
 - Ejercitar comandos de Git: [Learn Git Branching](https://learngitbranching.js.org/?locale=es_AR)
 - Conoce todo sobre Patrones de Diseño: [Refactoring Guru](https://refactoring.guru/design-patterns)
-
+- Documentación oficial JavaFx: [Oracle](https://docs.oracle.com/javafx/2/api/)
+- Curso JavaFx: [Tutorials Point](https://www.tutorialspoint.com/javafx/index.htm)
+- Guia oficial de Scene Builder: [Oracle](https://docs.oracle.com/javase/8/scene-builder-2/user-guide/intro.htm#sthref6)
+- Tutorial Scene Builder: [Code Makery](https://code.makery.ch/library/javafx-tutorial/part1/)
 
 ---
 
