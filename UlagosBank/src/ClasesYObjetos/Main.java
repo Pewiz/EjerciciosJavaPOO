@@ -297,7 +297,8 @@ public class Main {
             }while(usuario.length()!=10);
 
             Ejecutivo nuevoEjecutivo = new Ejecutivo(nombre, fechaDeNacimiento, rut, usuario, password);
-            return nuevoEjecutivo;
+            Persona persona1 = nuevoEjecutivo;
+            return persona1;
         }else{
             Cliente nuevoCliente = new Cliente(nombre, fechaDeNacimiento, rut, password);
             return nuevoCliente;

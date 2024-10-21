@@ -3,7 +3,7 @@ import java.time.LocalDate;
 import java.time.Period;
 
 public  class Persona {
-    protected String nombre;
+    protected String nombre; 
     protected Fecha fechaDeNacimiento;
     protected String rut;
     
@@ -38,6 +38,8 @@ public  class Persona {
     public void setRut(String rut) {
         this.rut = rut;
     }
+
+
 
     public boolean esMayorDeEdad(Fecha fechaDeNacimiento){
         LocalDate fechaNacimiento = LocalDate.of(fechaDeNacimiento.getYear(), fechaDeNacimiento.getMes(), fechaDeNacimiento.getDia());

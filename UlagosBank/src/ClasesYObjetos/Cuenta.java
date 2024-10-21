@@ -25,7 +25,7 @@ public class Cuenta {
 
 
     public String getTitular() {
-        return "\nNombre: "+titular.nombre+"\n Rut: "+titular.rut;
+        return "\nNombre: "+titular.getNombre()+"\n Rut: "+titular.getRut();
     }
 
 
@@ -47,6 +47,7 @@ public class Cuenta {
         for (Movimiento movimiento : movimientos) {
             System.out.println("Movimiento N°"+ i++ +"\n"+movimiento.toString());
         }
+
     }
 
     public void deposito(double cantidad){
