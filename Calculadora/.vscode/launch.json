@@ -10,8 +10,16 @@
             "name": "App",
             "request": "launch",
             "mainClass": "App",
+            "projectName": "Calculadora_53c3f7df",
+            "vmArgs": "--module-path \"C:/Program Files/javafx-sdk-23.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
             "projectName": "Calculadora_707c17b7",
-            "vmArgs": "--module-path \"C:/Program Files/javafx-sdk-23.0.1/lib\" --add-modules javafx.controls,javafx.fxml",
+            "vmArgs": "--module-path \"C:/Program Files/javafx-sdk-23.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
         },
         {
             "type": "java",
