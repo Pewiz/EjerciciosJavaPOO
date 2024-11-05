@@ -8,7 +8,7 @@ public class App extends Application {
 
     @Override
     public void start(Stage primaryStage) {
-        // Crear modelo, vista y controlador
+    
         CalculadoraModelo modelo = new CalculadoraModelo();
         CalculadoraVista vista = new CalculadoraVista(primaryStage);
         new CalculadoraControlador(modelo, vista);
