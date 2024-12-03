@@ -14,10 +14,10 @@ import javafx.scene.layout.GridPane;
 public class SalaController {
 
     private static Sala salas[] = {new Sala(), new Sala(), new Sala()};
-    private int sala;
+    private static int sala;
     
-    public void setSala(int sala){
-        this.sala = sala;
+    public void setSala(int newSala){
+        sala = newSala;
     }
 
     @FXML
