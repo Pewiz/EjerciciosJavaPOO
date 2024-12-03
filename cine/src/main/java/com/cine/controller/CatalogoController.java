@@ -26,7 +26,7 @@ public class CatalogoController {
 
     @FXML
     void handleBtnAtrasAction(ActionEvent event) throws IOException {
-        App.setRoot("salas");
+        App.setRoot("inicio");
     }
 
     @FXML
